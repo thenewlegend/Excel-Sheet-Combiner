@@ -8,6 +8,8 @@ Introducing the **Excel Sheet Combiner**, a powerful and intuitive desktop appli
 
 This intelligent tool effortlessly combines all sheets from multiple Excel files within a chosen folder into a single, organized Excel workbook. Each original sheet is meticulously transferred and renamed (e.g., `Filename_SheetName`) to ensure clarity and traceability in your new master file.
 
+
+
 ## Key Features & Benefits:
 
 *   **Effortless Consolidation:** Merge countless Excel sheets from various workbooks into one central file with just a few clicks.
@@ -19,3 +21,12 @@ This intelligent tool effortlessly combines all sheets from multiple Excel files
 *   **Time-Saving:** Drastically reduces the time spent on manual data aggregation, allowing you to focus on analysis and decision-making.
 *   **Increased Accuracy:** Minimizes the risk of human error associated with manual data transfers.
 
+
+
+**Stop wasting time. Start navigating.**
+
+<img width="390.5" height="275.5" alt="image" src="https://github.com/user-attachments/assets/f89f05f0-ff3a-4910-bfae-de0241acad3d" />
+
+
+---
+*Built with Python, openpyxl, and customtkinter.*
