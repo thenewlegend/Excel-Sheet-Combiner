@@ -1,5 +1,10 @@
 ﻿# Excel Sheet Combiner
 
+ <p align="center">
+  <img width="390.5" height="275.5" alt="image" src="https://github.com/user-attachments/assets/f89f05f0-ff3a-4910-bfae-de0241acad3d"/>
+</p>
+
+
 ## Tired of Manual Excel Merges?
 
 Introducing the **Excel Sheet Combiner**, a powerful and intuitive desktop application designed to streamline your data consolidation workflow. Say goodbye to tedious copy-pasting and manual errors!
@@ -25,8 +30,6 @@ This intelligent tool effortlessly combines all sheets from multiple Excel files
 
 **Stop wasting time. Start navigating.**
 
-<img width="390.5" height="275.5" alt="image" src="https://github.com/user-attachments/assets/f89f05f0-ff3a-4910-bfae-de0241acad3d" />
-
-
 ---
 *Built with Python, openpyxl, and customtkinter.*
+
